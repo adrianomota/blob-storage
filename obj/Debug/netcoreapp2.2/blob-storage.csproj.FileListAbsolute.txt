@@ -1,0 +1,12 @@
+/Users/adrianomota/git-projects/blob-storage/obj/Debug/netcoreapp2.2/blob-storage.csprojAssemblyReference.cache
+/Users/adrianomota/git-projects/blob-storage/obj/Debug/netcoreapp2.2/blob-storage.csproj.CoreCompileInputs.cache
+/Users/adrianomota/git-projects/blob-storage/obj/Debug/netcoreapp2.2/blob-storage.AssemblyInfoInputs.cache
+/Users/adrianomota/git-projects/blob-storage/obj/Debug/netcoreapp2.2/blob-storage.AssemblyInfo.cs
+/Users/adrianomota/git-projects/blob-storage/bin/Debug/netcoreapp2.2/blob-storage
+/Users/adrianomota/git-projects/blob-storage/bin/Debug/netcoreapp2.2/blob-storage.deps.json
+/Users/adrianomota/git-projects/blob-storage/bin/Debug/netcoreapp2.2/blob-storage.runtimeconfig.json
+/Users/adrianomota/git-projects/blob-storage/bin/Debug/netcoreapp2.2/blob-storage.runtimeconfig.dev.json
+/Users/adrianomota/git-projects/blob-storage/bin/Debug/netcoreapp2.2/blob-storage.dll
+/Users/adrianomota/git-projects/blob-storage/bin/Debug/netcoreapp2.2/blob-storage.pdb
+/Users/adrianomota/git-projects/blob-storage/obj/Debug/netcoreapp2.2/blob-storage.dll
+/Users/adrianomota/git-projects/blob-storage/obj/Debug/netcoreapp2.2/blob-storage.pdb
